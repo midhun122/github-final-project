@@ -2,7 +2,7 @@ git checkout main
 Switched to branch 'main'
 
 git merge bug-fix-typo
-Updating c0456d0..da98942
+Updating 5d6a7b..8c9d0e
 Fast-forward
-Shipping_Cost_Calculator.py | 2 ++
-1 file changed, 2 insertions(+)
+ README.md | 1 +
+ 1 file changed, 1 insertion(+)
