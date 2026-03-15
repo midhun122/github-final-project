@@ -1,11 +1,10 @@
-curl https://api.github.com/repos/midhun122/github-final-project | grep -i fork
+ curl https://api.github.com/repos/midhun122/github-final-project
 
 {
- "id": 1182215475,
- "name": "github-final-project",
- "full_name": "midhun122/github-final-project",
- "fork": true,
- "parent": {
-  "full_name": "ibm-developer-skills-network/Centralized-repository-shipping_calculations"
- }
+  "name": "github-final-project",
+  "full_name": "midhun122/github-final-project",
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/Centralized-repository-shipping_calculations"
+  }
 }
